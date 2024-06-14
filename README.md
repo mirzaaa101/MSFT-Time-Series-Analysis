@@ -1,5 +1,9 @@
+
 # MSFT-Time-Series-Analysis
 This project involves the time series analysis and predictive modeling of Microsoft stock prices using data collected from Google Sheets with the GOOGLEFINANCE command. The dataset spans from April 1, 2015, to April 1, 2021, providing an excellent basis for exploratory data analysis (EDA) and time series forecasting.
+
+![time_series_analysis](https://github.com/mirzaaa101/MSFT-Time-Series-Analysis/assets/132736299/06fb5b8f-adfd-4b7a-adb5-0724200ad2fc)
+
 
 The main objectives of this project are:
 
